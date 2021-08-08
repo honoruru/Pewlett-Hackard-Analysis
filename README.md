@@ -25,7 +25,7 @@ Upon completing the lists, analysis showed the following:
 4.	The 1,549 individuals on the List of Employees Eligible for the Mentorship Program appeared inadequate to mentor the remaining employees after potentially 72,458 began to retire over the next three years.  As mentioned above, it was unknown if any departments were disproportionally impacted.  The count of Employees Eligible for the Mentorship is displayed below in an Excel pivot table summary.
 
 (Deliverable 2 Excel totals.PNG)
- 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliver%202%20Excel%20totals.PNG" width="300" height="300" />
 
 
 ## Summary
