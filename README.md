@@ -46,7 +46,6 @@ With the plan to develop a table to determine if the number of potential mentors
 A quick visit to the employee lunchroom noted that there were numerous 30-somethings enjoying their break.  We fell victim to our cardinal rule by not reviewing the raw data thoroughly before investing efforts in analyzing. While our conclusions were rendered questionable based on our data’s incompleteness, solace is taken in that once we obtained accurate and complete data, our queries would be ready to be applied.  
 
 ## EXHIBITS
-
  
 ## Exhibit 1
 
@@ -56,19 +55,20 @@ A quick visit to the employee lunchroom noted that there were numerous 30-someth
 
 <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%202.PNG" width="800" height="800" />  
 
- 
 ## Exhibit 3
 
- <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/titles_compare%20code.pdf" width="800" height="800" />      
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture1.png" width="800" height="500" />
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture2.png" width="800" height="350" /> 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture3.png" width="800" height="250" /> 
  
 
-(Create title_compare pgAdmin.PNG)
+
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Create%20title_compare%20pgAdmin.PNG" width="800" height="800" />
  
- 
 ## Exhibit 4
-(Deliverable 2.PNG)
- 
- 
+
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%202.PNG" width="800" height="800" />
+
 ## Exhibit 5
-(active_employee code.PNG)
- 
+
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/active_employee%20code.PNG" width="800" height="850" /> 
