@@ -59,16 +59,19 @@ A quick visit to the employee lunchroom noted that there were numerous 30-someth
  
 ## Exhibit 3
 
- <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture1.png" width="800" height="500" />      
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture1.png" width="800" height="500" />
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture2.png" width="800" height="500" /> 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture3.png" width="800" height="500" /> 
  
 
-(Create title_compare pgAdmin.PNG)
+(Create title_compare pgAdmin.PNG) 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Create%20title_compare%20pgAdmin.PNG" width="800" height="500" />
  
  
 ## Exhibit 4
 (Deliverable 2.PNG)
- 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%202.PNG" width="800" height="500" />
  
 ## Exhibit 5
 (active_employee code.PNG)
- 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/active_employee%20code.PNG" width="800" height="500" /> 
