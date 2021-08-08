@@ -24,7 +24,6 @@ Upon completing the lists, analysis showed the following:
 
 4.	The 1,549 individuals on the List of Employees Eligible for the Mentorship Program appeared inadequate to mentor the remaining employees after potentially 72,458 began to retire over the next three years.  As mentioned above, it was unknown if any departments were disproportionally impacted.  The count of Employees Eligible for the Mentorship is displayed below in an Excel pivot table summary.
 
-(Deliverable 2 Excel totals.PNG)
 <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliver%202%20Excel%20totals.PNG" width="300" height="300" />
 
 
@@ -35,8 +34,9 @@ To assess whether any department was disproportionally impacted, tables were dev
 Comparing the results of the queries using Excel, it was determined that, remarkably (#blessed), every position in every department was equally impacted with around 30% potentially retiring.  
 The question remained whether there were enough qualified employees in the departments to mentor the next generation of PH employees.  The initial tables provided only the number of potential members by job title.  Again, additional tables were developed to break down the number of potential mentors by title and department.  See queries at Exhibit 4.
 Our mentorship analysis is illustrated below in an excerpt from the Excel workbook title_compare_PIVOT.xlsx located in the Data folder.
-(titles_compare_PIVOT excerpt.PNG)
- 
+
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/titles_compare_PIVOT%20excerpt.PNG" width="800" height="500" />
+
 This analysis shows that the ratio for mentor-to-non-retiring employees varies among departments.  However, the information is useful for the development of the mentorship program.
 
 With the plan to develop a table to determine if the number of potential mentors could be expanded beyond employees aged 55-56, the team took a closer look at the employees.csv data initially provided to the team.  Embarrassingly, the team realized that, based on the data, no current employee was born after 2/1/1965 nor hired after 1/23/2000.  See queries at Exhibit 5.
