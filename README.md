@@ -48,16 +48,16 @@ A quick visit to the employee lunchroom noted that there were numerous 30-someth
 ## EXHIBITS
 
  
-# Exhibit 1
+## Exhibit 1
 (Deliverable 1 FIXED.PNG)
- 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%201%20FIXED.PNG" width="800" height="800" /> 
  
-# Exhibit 2
+## Exhibit 2
 (Deliverable 2.PNG)
  
 
  
-# Exhibit 3
+## Exhibit 3
 (Titles_compare code.pdf)
      
  
@@ -65,10 +65,10 @@ A quick visit to the employee lunchroom noted that there were numerous 30-someth
 (Create title_compare pgAdmin.PNG)
  
  
-# Exhibit 4
+## Exhibit 4
 (Deliverable 2.PNG)
  
  
-# Exhibit 5
+## Exhibit 5
 (active_employee code.PNG)
  
