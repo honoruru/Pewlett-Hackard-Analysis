@@ -15,13 +15,14 @@ Upon completing the lists, analysis showed the following:
 1.	The list of Number of Employees Retiring showed that 72,458 were nearing retirement age.  For the purpose of the analysis, retirement age was defined as ages 65 to 68. Not surprisingly, the largest number of potential retirements were at the Senior Engineer and Senior Staff positions.  It was also noted that two of the nine Managers were of retirement age. See query at Exhibit 1.
 
 (Deliverable 1 Output.PNG)
- 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%201%20Output.PNG />
 
 2.	Still, the list of Number of Employees Retiring the list was not as informative as one would need it to be to prepare for the potential wave of retiring employees.  For instance, it did not identify which, if any, department was more vulnerable due to a disproportional number of retiring employees in any given job function. 
 
 3.	The List of Employees Eligible for the Mentorship Program provided 1,549 names and titles of employee born in 1965, i.e., 55-56 years of age.  The age range for potential mentors was recommended by management.  The list also included the individuals’ start date at their current position.  This may not capture an individual’s actual years of experience, however, is still useful. See query at Exhibit 2.
 
 (Deliverable 2 Output.PNG)
+
  
 
 4.	The 1,549 individuals on the List of Employees Eligible for the Mentorship Program appeared inadequate to mentor the remaining employees after potentially 72,458 began to retire over the next three years.  As mentioned above, it was unknown if any departments were disproportionally impacted.  The count of Employees Eligible for the Mentorship is displayed below in an Excel pivot table summary.
