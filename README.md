@@ -15,7 +15,7 @@ Upon completing the lists, analysis showed the following:
 1.	The list of Number of Employees Retiring showed that 72,458 were nearing retirement age.  For the purpose of the analysis, retirement age was defined as ages 65 to 68. Not surprisingly, the largest number of potential retirements were at the Senior Engineer and Senior Staff positions.  It was also noted that two of the nine Managers were of retirement age. See query at Exhibit 1.
 
 (Deliverable 1 Output.PNG)
-<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%201%20Output.PNG />
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%201%20Output.PNG" width="300" height="300" />
 
 2.	Still, the list of Number of Employees Retiring the list was not as informative as one would need it to be to prepare for the potential wave of retiring employees.  For instance, it did not identify which, if any, department was more vulnerable due to a disproportional number of retiring employees in any given job function. 
 
