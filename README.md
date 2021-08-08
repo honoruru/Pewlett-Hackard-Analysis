@@ -72,6 +72,6 @@ A quick visit to the employee lunchroom noted that there were numerous 30-someth
 
 <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%202.PNG" width="800" height="800" />
  
-## Exhibit 5
+ ## Exhibit 5
 
 <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/active_employee%20code.PNG" width="800" height="800" /> 
