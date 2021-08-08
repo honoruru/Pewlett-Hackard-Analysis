@@ -60,8 +60,8 @@ A quick visit to the employee lunchroom noted that there were numerous 30-someth
 ## Exhibit 3
 
 <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture1.png" width="800" height="500" />
-<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture2.png" width="800" height="250" /> 
-<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture3.png" width="800" height="250" /> 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture2.png" width="800" height="350" /> 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Picture3.png" width="800" height="150" /> 
  
 
 (Create title_compare pgAdmin.PNG) 
