@@ -20,9 +20,7 @@ Upon completing the lists, analysis showed the following:
 
 3.	The List of Employees Eligible for the Mentorship Program provided 1,549 names and titles of employee born in 1965, i.e., 55-56 years of age.  The age range for potential mentors was recommended by management.  The list also included the individuals’ start date at their current position.  This may not capture an individual’s actual years of experience, however, is still useful. See query at Exhibit 2.
 
-(Deliverable 2 Output.PNG)
-<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%202%20Output.PNG" width="300" height="300" />
- 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/Deliverable%202%20Output.PNG" width="800" height="300" />
 
 4.	The 1,549 individuals on the List of Employees Eligible for the Mentorship Program appeared inadequate to mentor the remaining employees after potentially 72,458 began to retire over the next three years.  As mentioned above, it was unknown if any departments were disproportionally impacted.  The count of Employees Eligible for the Mentorship is displayed below in an Excel pivot table summary.
 
