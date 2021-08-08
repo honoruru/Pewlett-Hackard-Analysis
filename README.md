@@ -41,7 +41,7 @@ This analysis shows that the ratio for mentor-to-non-retiring employees varies a
 
 With the plan to develop a table to determine if the number of potential mentors could be expanded beyond employees aged 55-56, the team took a closer look at the employees.csv data initially provided to the team.  Embarrassingly, the team realized that, based on the data, no current employee was born after 2/1/1965 nor hired after 1/23/2000.  See queries at Exhibit 5.
 
-<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/active_employee_pivot_img.PNG" width="800" height="500" /> 
+<img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/active_employee_pivot_img.PNG" width="800" height="350" /> 
 
 A quick visit to the employee lunchroom noted that there were numerous 30-somethings enjoying their break.  We fell victim to our cardinal rule by not reviewing the raw data thoroughly before investing efforts in analyzing. While our conclusions were rendered questionable based on our data’s incompleteness, solace is taken in that once we obtained accurate and complete data, our queries would be ready to be applied.  
 
