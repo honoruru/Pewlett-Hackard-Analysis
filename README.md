@@ -58,8 +58,8 @@ A quick visit to the employee lunchroom noted that there were numerous 30-someth
 
  
 ## Exhibit 3
-(Titles_compare code.pdf)
-     
+
+ <img src="https://github.com/honoruru/Pewlett-Hackard-Analysis/blob/main/Challenge%20Images/titles_compare%20code.pdf" width="800" height="800" />      
  
 
 (Create title_compare pgAdmin.PNG)
